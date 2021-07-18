@@ -1,4 +1,4 @@
-## Some of the End-Semester Projects from Semester - 1
+## Some of the End-Semester Projects from Semester - 2
 
 * Technical Communication
  > Reinforcement Learning   
