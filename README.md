@@ -6,3 +6,5 @@
  > Offset Slider Crank Mechanism 
 * Mathematics for Intelligent Systems
  > Alternating Direction Method of Multipliers (ADMM) 
+* Sensors and Measurements
+ > Automated Animal Feeding and Smart Parking System 
