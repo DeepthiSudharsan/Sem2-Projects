@@ -8,3 +8,7 @@
  > Alternating Direction Method of Multipliers (ADMM) 
 * Sensors and Measurements
  > Automated Animal Feeding and Smart Parking System 
+* Introduction to Electronics
+ > Voltage Comparator using Differential Amplifier
+
+
